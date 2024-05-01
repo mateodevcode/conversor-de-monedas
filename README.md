@@ -1,6 +1,7 @@
 # Bienvenidos al Challenge Conversor de Monedas - Reto Alura
 
-[Título e imagen de portada]
+![image](https://github.com/mateodevcode/conversor-de-monedas/assets/149150878/a822a54a-249b-42a5-9857-dc1714154a10)
+
 
 En este reto, presentamos una aplicación diseñada para realizar la conversión de monedas.
 
@@ -17,6 +18,8 @@ La aplicación fue desarrollada principalmente en el backend utilizando Java, de
 Desarrollado por: **Mateo Lizcano** --> **Mateodev**
 
 **Desarrollo de backend**
+
+
 
 Esta herramienta es de uso gratuito para todos aquellos que deseen utilizarla.
 
