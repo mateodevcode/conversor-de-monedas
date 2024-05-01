@@ -1,0 +1,18 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Bienvenidos al Challenge Conversor de Monedas - Reto Alura\r\n\r\n[Título e imagen de portada]\r\n\r\nEn este reto, presentamos una aplicación diseñada para realizar la conversión de monedas.\r\n\r\nLa aplicación fue desarrollada principalmente en el backend utilizando Java, demostrando así las habilidades adquiridas durante el aprendizaje en Alura.\r\n\r\n### Tecnologías utilizadas\r\n- Java (https://www.java.com/)\r\n- API (https://www.exchangerate-api.com/)\r\n- GSON (https://github.com/google/gson/blob/main/UserGuide.md)\r\n- Notion (https://www.notion.so/)\r\n- Excalidraw (https://excalidraw.com/)\r\n- Trello (https://trello.com/b/RU41cvaQ/conversor-de-moneda-challenge-one-java-back-end)\r\n\r\nDesarrollado por: **Mateo Lizcano** --> **Mateodev**\r\n\r\n**Desarrollo de backend**\r\n\r\nEsta herramienta es de uso gratuito para todos aquellos que deseen utilizarla.\r\n\r\nGracias a este reto, pude fortalecer mis habilidades en el desarrollo de backend al crear una aplicación para convertir monedas, empleando la programación orientada a objetos y consumiendo una API en tiempo real. \r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 3e4f4454178afd08517c0cf29262fb67cf30fd08)
++++ b/README.md	(date 1714567930684)
+@@ -1,6 +1,6 @@
+ # Bienvenidos al Challenge Conversor de Monedas - Reto Alura
+ 
+-[Título e imagen de portada]
++![image](https://github.com/mateodevcode/conversor-de-monedas/assets/149150878/e082fbcb-1b62-4082-ac8c-bcb5ec51fd77)
+ 
+ En este reto, presentamos una aplicación diseñada para realizar la conversión de monedas.
+ 
